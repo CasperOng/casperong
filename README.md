@@ -3,7 +3,6 @@
 
 [![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
 ## Social Media
-- [YouTube Channel](https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A)
 - [Instagram](https://www.instagram.com/casper.ong.ny)
 - [Twitter](https://twitter.com/TheRealCasperHK)
 - [My Main Website](https://www.casperong.eu.org)
