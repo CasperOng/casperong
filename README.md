@@ -15,7 +15,7 @@ Find me around the web:
 > [![X](https://img.shields.io/badge/X-TheRealCasperHK-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheRealCasperHK)
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-casperongny-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/casperongny/)
 > [![GitHub](https://img.shields.io/badge/GitHub-CasperOng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CasperOng)
-> [![Website](https://img.shields.io/badge/Website-casperong.eu.org-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.casperong.eu.org)
+> [![Website](https://img.shields.io/badge/Website-casperong.is-a.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://casperong.is-a.dev)
 
 ##### CERTIFICATIONS & BADGES:
 
@@ -30,9 +30,9 @@ I am **Google Certified** and **Gemini Certified**, with credentials across Goog
 > [![AWS Knowledge: Cloud Essentials](https://img.shields.io/badge/AWS_Knowledge-Cloud_Essentials-FF9900?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/a761a153-c866-413a-bc99-3a42d615de8f/public_url)
 > [![Cisco Linux Unhatched](https://img.shields.io/badge/Cisco_Networking_Academy-Linux_Unhatched-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/41aa8834-2cca-411b-8116-db063a3ff784/public_url)
 > [![Docker Essentials](https://img.shields.io/badge/IBM_Cognitive_Class-Docker_Essentials-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://courses.cognitiveclass.ai/certificates/f5369e5470b6465199bb7bcf3c2ccf5a)
-> [![Cybersecurity Essentials](https://img.shields.io/badge/Linux_Foundation-Cybersecurity_Essentials-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://www.casperong.eu.org/#certifications)
-> [![Developing Secure Software](https://img.shields.io/badge/OpenSSF-Developing_Secure_Software-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://www.casperong.eu.org/#certifications)
-> [![Secure AI/ML-Driven Development](https://img.shields.io/badge/OpenSSF-Secure_AI%2FML_Development-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://www.casperong.eu.org/#certifications)
+> [![Cybersecurity Essentials](https://img.shields.io/badge/Linux_Foundation-Cybersecurity_Essentials-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://casperong.is-a.dev/#certifications)
+> [![Developing Secure Software](https://img.shields.io/badge/OpenSSF-Developing_Secure_Software-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://casperong.is-a.dev/#certifications)
+> [![Secure AI/ML-Driven Development](https://img.shields.io/badge/OpenSSF-Secure_AI%2FML_Development-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://casperong.is-a.dev/#certifications)
 
 ##### TECH STACK:
 
