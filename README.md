@@ -13,9 +13,9 @@ Find me around the web:
 
 > [![Instagram](https://img.shields.io/badge/Instagram-casper.ong.ny-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/casper.ong.ny)
 > [![X](https://img.shields.io/badge/X-TheRealCasperHK-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheRealCasperHK)
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-casperongny-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/casperongny/)
+> [![LinkedIn](badges/linkedin.svg)](https://www.linkedin.com/in/casperongny/)
 > [![GitHub](https://img.shields.io/badge/GitHub-CasperOng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CasperOng)
-> [![Website](https://img.shields.io/badge/Website-casperong.is-a.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://casperong.is-a.dev)
+> [![Website](https://img.shields.io/badge/Website-casperong.is--a.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://casperong.is-a.dev)
 
 ##### CERTIFICATIONS & BADGES:
 
