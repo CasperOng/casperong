@@ -2,18 +2,24 @@
 <p align="center">Full Stack Developer · AI &amp; Machine Learning · Agentic Coding · Linux &amp; Homelab — <strong>Google &amp; Gemini Certified</strong></p>
 
 <p align="center">
-  I'm Casper, a student developer in Hong Kong exploring <strong>AI &amp; machine learning</strong>, <strong>agentic coding tools</strong>, <strong>Linux infrastructure</strong>, and photography. I like understanding how systems work—from operating systems, containers, and networks to generative AI and secure software development.
+  I'm Casper, a student developer in Hong Kong exploring <strong>AI &amp; machine learning</strong>, <strong>agentic coding tools</strong>, <strong>Linux infrastructure</strong>, and photography. I like understanding how systems work — from operating systems, containers, and networks to generative AI and secure software development.
 </p>
 
-[![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
-## Social Media
-- [Instagram](https://www.instagram.com/casper.ong.ny)
-- [Twitter](https://twitter.com/TheRealCasperHK)
-- [My Main Website](https://www.casperong.eu.org)
+---
+
+##### CONNECT:
+
+Find me around the web:
+
+> [![Instagram](https://img.shields.io/badge/Instagram-casper.ong.ny-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/casper.ong.ny)
+> [![X](https://img.shields.io/badge/X-TheRealCasperHK-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheRealCasperHK)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-casperongny-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/casperongny/)
+> [![GitHub](https://img.shields.io/badge/GitHub-CasperOng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CasperOng)
+> [![Website](https://img.shields.io/badge/Website-casperong.eu.org-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.casperong.eu.org)
 
 ##### CERTIFICATIONS & BADGES:
 
-I am **Google Certified** and **Gemini Certified**, with credentials across Google for Education, Google AI, AWS Cloud, Linux, Docker, and cybersecurity:
+I am **Google Certified** and **Gemini Certified**, with credentials across Google for Education, Google AI, AWS Cloud, Linux, Docker, and secure software development:
 
 > [![Google Certified Educator Level 2](https://img.shields.io/badge/Google_Certified_Educator-Level_2-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/b2942c0f-88d7-445c-8870-b9d2637b0ad4)
 > [![Google Certified Educator Level 1](https://img.shields.io/badge/Google_Certified_Educator-Level_1-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://edu.google.accredible.com/d4a4b159-41be-4b07-80a5-7176844bf864)
@@ -26,9 +32,9 @@ I am **Google Certified** and **Gemini Certified**, with credentials across Goog
 > [![Docker Essentials](https://img.shields.io/badge/IBM_Cognitive_Class-Docker_Essentials-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://courses.cognitiveclass.ai/certificates/f5369e5470b6465199bb7bcf3c2ccf5a)
 > [![Cybersecurity Essentials](https://img.shields.io/badge/Linux_Foundation-Cybersecurity_Essentials-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://www.casperong.eu.org/#certifications)
 > [![Developing Secure Software](https://img.shields.io/badge/OpenSSF-Developing_Secure_Software-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://www.casperong.eu.org/#certifications)
-> [![Secure AI/ML-Driven Software Development](https://img.shields.io/badge/OpenSSF-Secure_AI%2FML_Development-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://www.casperong.eu.org/#certifications)
+> [![Secure AI/ML-Driven Development](https://img.shields.io/badge/OpenSSF-Secure_AI%2FML_Development-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://www.casperong.eu.org/#certifications)
 
-##### MY TECH STACK:
+##### TECH STACK:
 
 - **Languages**:
 
@@ -38,7 +44,7 @@ I am **Google Certified** and **Gemini Certified**, with credentials across Goog
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-- **Frameworks, libraries and other tools**:
+- **Frameworks, Libraries & Tools**:
 
 > ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 > ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -47,14 +53,16 @@ I am **Google Certified** and **Gemini Certified**, with credentials across Goog
 > ![NuxtJS](https://img.shields.io/badge/Nuxt-41B883?style=for-the-badge&logo=nuxt.js&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 > ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-> ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 > ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 > ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-> ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-> ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
+> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+> ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-- ##### Other Stuff I use to create
+- **Other Tools I Use To Create**:
 
 > ![My Skills](https://skillicons.dev/icons?i=aws,cpp,cmake,debian,dotnet,flutter,github,gcp,linux,arch,kubernetes,mongodb,vscode,visualstudio,azure,cloudflare,discord,blender,ps,pr,ae,docker,figma)
+
+---
+
+[![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
