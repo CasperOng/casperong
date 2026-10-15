@@ -1,5 +1,9 @@
 <h1 align="center">Hi there I'm Casper 🔰</h1>
-<p align="center">I'm a full stack developer — <strong>Google &amp; Gemini Certified</strong>.</p>
+<p align="center">Full Stack Developer · AI &amp; Machine Learning · Agentic Coding · Linux &amp; Homelab — <strong>Google &amp; Gemini Certified</strong></p>
+
+<p align="center">
+  I'm Casper, a student developer in Hong Kong exploring <strong>AI &amp; machine learning</strong>, <strong>agentic coding tools</strong>, <strong>Linux infrastructure</strong>, and photography. I like understanding how systems work—from operating systems, containers, and networks to generative AI and secure software development.
+</p>
 
 [![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
 ## Social Media
