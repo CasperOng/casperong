@@ -1,11 +1,26 @@
 <h1 align="center">Hi there I'm Casper 🔰</h1>
-<p align="center"> I'm a full stack developer.</p>
+<p align="center">I'm a full stack developer — <strong>Google &amp; Gemini Certified</strong>.</p>
 
 [![Please do not theme this app](https://stopthemingmy.app/badge.svg)](https://stopthemingmy.app)
 ## Social Media
 - [Instagram](https://www.instagram.com/casper.ong.ny)
 - [Twitter](https://twitter.com/TheRealCasperHK)
 - [My Main Website](https://www.casperong.eu.org)
+
+## Certifications & Badges
+
+I am **Google Certified** (**Google Certified Educator Level 1 & Level 2**) and **Gemini Certified** (**Gemini Certified Educator** & **Gemini Certified Faculty**), with additional badges in Google AI, AWS Cloud, and Linux.
+
+<p align="left">
+  <a href="https://edu.google.accredible.com/b2942c0f-88d7-445c-8870-b9d2637b0ad4"><img src="badges/google-certified-educator-level-2.png" alt="Google Certified Educator Level 2" height="110" /></a>
+  <a href="https://edu.google.accredible.com/d4a4b159-41be-4b07-80a5-7176844bf864"><img src="badges/google-certified-educator-level-1.png" alt="Google Certified Educator Level 1" height="110" /></a>
+  <a href="https://edu.google.accredible.com/bcb1b1f7-9495-44b2-8699-2c2d208c8302"><img src="badges/gemini-certified-educator.png" alt="Gemini Certified Educator" height="110" /></a>
+  <a href="https://edu.google.accredible.com/60b02be9-2b61-403f-9431-9b9ae22338d9"><img src="badges/gemini-certified-faculty.png" alt="Gemini Certified Faculty" height="110" /></a>
+  <a href="https://edu.google.accredible.com/3fdaf505-3300-4465-8eea-33d74bdc0fa0"><img src="badges/vibe-coding-with-gemini.png" alt="Introduction to Vibe Coding with Gemini" height="110" /></a>
+  <a href="https://edu.google.accredible.com/b3d31236-7329-403f-b0dc-e75744415f35"><img src="badges/genai-for-educators.png" alt="Create classroom-ready instructional materials (Gen AI for Educators)" height="110" /></a>
+  <a href="https://www.credly.com/badges/a761a153-c866-413a-bc99-3a42d615de8f/public_url"><img src="badges/aws-cloud-essentials.png" alt="AWS Knowledge: Cloud Essentials" height="110" /></a>
+  <a href="https://www.credly.com/badges/41aa8834-2cca-411b-8116-db063a3ff784/public_url"><img src="badges/linux-unhatched.png" alt="Cisco Networking Academy: Linux Unhatched" height="110" /></a>
+</p>
 
 ##### MY TECH STACK:
 
